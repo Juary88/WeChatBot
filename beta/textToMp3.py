@@ -8,8 +8,8 @@ from aip import AipSpeech
 
 """ 你的 APPID AK SK """
 APP_ID = 'test_python'
-API_KEY = 'SrhYKqzl3SE1URnAEuZ0FKdT'
-SECRET_KEY = 'hGqeCkaMPb0ELMqtRGc2VjWdmjo7T89d'
+API_KEY = '***********'
+SECRET_KEY = '**********'
 
 def textToMp3(text):
     aipSpeech = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
