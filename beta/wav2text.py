@@ -24,8 +24,8 @@ def get_token():
     '''Get Baidu's api token'''
     _url = 'http://openapi.baidu.com/oauth/2.0/token'
     _params = {'grant_type': 'client_credentials',
-               'client_id': 'rqGfWFhPP9s9QQBXllQ7hpVM',  # 改成你自己的
-               'client_secret': '88cfa910869ae4c37bb804a0e431cd49'}  # 改成你自己的
+               'client_id': '*******',  # 改成你自己的
+               'client_secret': '******9'}  # 改成你自己的
     _res = requests.post(_url, _params)
     _data = json.loads(_res.text)
     return _data['access_token']
