@@ -68,5 +68,4 @@ botThread.start()
 itchat.auto_login(hotReload=True)
 itchat.run()
 
-# https://github.com/whtsky/WeRoBot/blob/bfd7313699fb7765f241083cbc02910a086a6c64/werobot/robot.py#L377 # server 跑起来
-# todo 内部服务以threading跑 丢到一个函数里 https://github.com/littlecodersh/ItChat/blob/35bac6bfcf27eefcb992388bb33f6ae6a7787595/itchat/components/register.py#L89
+
