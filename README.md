@@ -5,7 +5,9 @@
 python wechat_bot 直接启动
 
 R & rpy2相关
+
 R的下载地址：https://cran.r-project.org/bin/windows/base/
+
 设定环境变量：
 1. Path
 xxx\R\R-x.x.x\bin\x64
