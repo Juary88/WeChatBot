@@ -8,6 +8,8 @@ R & rpy2相关
 
 R的下载地址：https://cran.r-project.org/bin/windows/base/
 
+rpy2的下载地址：https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
 设定环境变量：
 1. Path
 xxx\R\R-x.x.x\bin\x64
