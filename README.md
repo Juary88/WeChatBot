@@ -11,7 +11,7 @@ R的下载地址：https://cran.r-project.org/bin/windows/base/
 xxx\R\R-x.x.x\bin\x64
 2. R_HOME
 xxx\R\R-3.3.3
-3 R_LIBS_USER
+3. R_LIBS_USER
 xxx\R\library
-4 R_USER
+4. R_USER
 xxx\Lib\site-packages\rpy2
