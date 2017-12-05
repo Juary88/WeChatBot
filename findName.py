@@ -20,7 +20,8 @@ def extract_name(string):
         if str(name.nature) == 'nr' or str(name.nature) == 'nx':
             #print(name.word)
             name = str(name.word).replace("\ns","")
+            
             return name
 
-    
+extract_name("我姓林")   
 
