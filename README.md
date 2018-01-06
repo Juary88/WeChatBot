@@ -1,9 +1,9 @@
 # WeChatBot
 基于个人微信的自动回复机器人（支持语音输入与语音回复）
 
-需下载ffmpeg.exe
+需下载ffmpeg.exe语音识别模块需用到
 python wechat_bot 直接启动
-
+以下为进行声音性别识别，可以不用。
 R & rpy2相关
 
 R的下载地址：https://cran.r-project.org/bin/windows/base/
