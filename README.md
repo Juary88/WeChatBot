@@ -3,6 +3,8 @@
 
 需下载ffmpeg.exe语音识别模块需用到
 python wechat_bot 直接启动
+
+
 以下为进行声音性别识别，可以不用。
 R & rpy2相关
 
